@@ -1,10 +1,10 @@
 {
-    "ownerNumber": ["6282193115723@s.whatsapp.net","62887435047326@s.whatsapp.net"],
-    "ownerName": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
+    "ownerNumber": ["6285941896616@s.whatsapp.net","6285868055463@s.whatsapp.net"],
+    "ownerName": "JSDeveloper",
     "instagram" : "https://instagram.com/zeeoneofc",
-    "gcwa" : "https://instabio.cc/Alphabot",
-    "botName": "Haruka-Mdོ ",
-    "footer": "2023 © api.zeeoneofc.my.id",
+    "gcwa" : "https://matchboxid.my.id",
+    "botName": "RukuBot-MD",
+    "footer": "2023 © Matchbox Studio",
     "sessionName": "session",
     "fotoDonasi": "./qris.jpg",
     "pathimg": "./Haruka.jpg",
@@ -27,7 +27,7 @@
     "gamewaktu": 90,
     "limitCount": 25,
     "gcount": {
-        "prem": 1000,
+        "prem": 10000,
         "user": 15
     }
 }
